@@ -1,0 +1,4 @@
+numpy>=1.26
+opencv-python>=4.8
+scikit-image>=0.22   # SSIM metric
+matplotlib>=3.8      # figures only
